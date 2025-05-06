@@ -5,3 +5,6 @@
 </p>
 
 # Oracle-Highlights
+
+
+➜ Supported database and enterprise application environments running on Oracle infrastructure with account and permissions management.
