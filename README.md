@@ -7,4 +7,4 @@
 # Oracle-Highlights
 
 
-➜ Supported database and enterprise application environments running on Oracle infrastructure with account and permissions management.
+➜ Supported database and enterprise application environments running on Oracle infrastructure by unlocking user accounts.
