@@ -4,7 +4,8 @@
   </a>
 </p>
 
-# Oracle-Highlights
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Samuel-Cavada/Oracle-Highlights/main/images/Oracle.png" alt="Oracle Highlights" width="600">
+</p>
 
-
-➜ Supported database and enterprise application environments running on Oracle infrastructure by unlocking user accounts.
+> This section reflects experience working with Oracle technologies in enterprise environments for data management or application support.
